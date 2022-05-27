@@ -58,7 +58,6 @@ function calculadora() {
             }
         }
     }
-        
 
     // if (operacao == 1) {
     //     soma();

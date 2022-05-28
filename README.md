@@ -1,4 +1,6 @@
 # Sintaxe e Operadores
 
-Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", que faz parte do Basecamp de Javascript que minstrei pela [Digital Innovation One](https://digitalinnovation.one/).
+## Calculadora 
+
+Este repositório contém a atividade prática do Curso "Sintaxe básica em javascript", que faz parte do Bootcamp de Javascript que participei pela [Digital Innovation One](https://digitalinnovation.one/).
 

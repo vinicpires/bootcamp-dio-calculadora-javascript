@@ -1,4 +1,4 @@
-# Sintaxe e Operadores
+# Sintaxe básica em Javascript
 
 ## Calculadora 
 
